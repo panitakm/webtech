@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "name": "ex1",
+  "version": "1.0.0",
+  "main": "index_simple.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index_simple.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
